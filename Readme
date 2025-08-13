@@ -1,11 +1,35 @@
-Módulo 1 — Spark Core & DataFrame API (Semanas 2–3)
+# Module 1 — Spark Core & DataFrame API
 
-Repo: databricks-spark-core
+## Overview
+This module covers the foundations of Apache Spark using Databricks, focusing on:
+- Creating and managing a SparkSession
+- Understanding RDDs and DataFrames
+- Performing transformations and actions
+- Using SQL queries within Spark
 
-Objetivo: dominar transformações, joins, UDFs, performance básica e debugging.
+---
 
-Semana 2: DataFrame basics, selects, filters, aggregations, explain plans.
+## Week 2 — Fundamentals
+1. **Lesson 1:** SparkSession introduction and configuration
+2. **Lesson 2:** Basics of RDDs — transformations and actions
+3. **Lesson 3:** Basics of DataFrames — reading JSON/CSV
 
-Semana 3: Joins (broadcast vs shuffle), UDFs vs pandas UDFs, handling skew.
+---
 
-Entregáveis diários: pequenos notebooks com exemplos e um perf_note.md com observações.
+## Week 3 — DataFrame Operations
+4. **Lesson 4:** DataFrame transformations (`select`, `filter`, `withColumn`, `groupBy`, `agg`)
+5. **Lesson 5:** DataFrame actions (`show`, `count`, `collect`, `take`)
+6. **Lesson 6:** SQL queries in Spark (`createOrReplaceTempView`, `spark.sql`)
+
+---
+
+## How to Use
+- Clone this repository into Databricks Repos
+- Attach to a running cluster
+- Run each lesson notebook sequentially
+- All code is documented in English for learning and reference
+
+---
+
+**Note:** Example datasets are included in the `/data` folder for practice.
+
