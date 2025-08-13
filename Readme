@@ -1,0 +1,11 @@
+Módulo 1 — Spark Core & DataFrame API (Semanas 2–3)
+
+Repo: databricks-spark-core
+
+Objetivo: dominar transformações, joins, UDFs, performance básica e debugging.
+
+Semana 2: DataFrame basics, selects, filters, aggregations, explain plans.
+
+Semana 3: Joins (broadcast vs shuffle), UDFs vs pandas UDFs, handling skew.
+
+Entregáveis diários: pequenos notebooks com exemplos e um perf_note.md com observações.
