@@ -1,5 +1,4 @@
 # My_Databricks_projects
-Readme
 
 Each Databricks projetct should have below structure :
 
