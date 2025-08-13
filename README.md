@@ -1,6 +1,6 @@
 # My_Databricks_projects
 
-Each Databricks projetct should have below structure :
+Each Databricks projetct should have below Folder structure :
 
 / (root)
   ├─ README.md
